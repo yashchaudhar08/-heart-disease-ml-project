@@ -1,10 +1,8 @@
+streamlit
 pandas
 numpy
 scikit-learn
-streamlit
 joblib
-streamlit
-scikit-learn
 matplotlib
 seaborn
 altair
